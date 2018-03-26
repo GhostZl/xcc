@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class="user-avator" src="/images/avatar/3.png"></image>
+  <text class='user-name'>Hello,Ghost-Zl</text>
+  <view class="moto-container" bindtap="go">
+    <text class="moto">开启小程序之旅</text>
+  </view>
+</view>

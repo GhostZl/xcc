@@ -1,0 +1,5 @@
+/* pages/movies/map/map.wxss */
+map{
+    width: 100%;
+    height: 1334rpx;
+}
